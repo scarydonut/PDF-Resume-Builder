@@ -10,15 +10,11 @@ Files
 Usage
 1. Open `index.html` in your browser.
 2. Fill in your resume details in the form.
-3. Use the provided button to generate and download the PDF.
+3. Use the provided button to generate the PDF.
 
 Development
 - No build step required — static HTML/CSS/JS.
-- For local testing, you can run a simple HTTP server, e.g.:
-
-  ```bash
-  python -m http.server 8000
-  ```
+- For local testing, you can run a simple HTTP server,
 
 License
 - MIT
